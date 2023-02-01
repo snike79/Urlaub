@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a name="top"></a> :bicyclist: :bicyclist: :bicyclist: (Hamburg) - Berlin - Dresden - Prag :bicyclist: :bicyclist: :bicyclist: </h1>
+<h1><a name="top"></a> :bicyclist: :bicyclist: :bicyclist: (HH) - B - DD - Prag :bicyclist: :bicyclist: :bicyclist: </h1>
 </div>
 
 - [Fr 14.07. - Hinfahrt (Zug)](#fr-1407---hinfahrt-zug)
@@ -19,14 +19,12 @@
 
 # Fr 14.07. - Hinfahrt (Zug)
 
-<a href="https://www.booking.com/Share-MTXxVyT" onclick="return ! window.open(this.href);">Open in a new window</a>
-
 ## IC 2075
 Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - Gabi & Olaf
 - MichiS (Backup)
 
-## <a href="https://www.booking.com/Share-MTXxVyT" target="_blank" rel="noopener noreferrer">Hotel Rossi</a>
+## [Hotel Rossi](https://www.booking.com/Share-MTXxVyT)
 - Lehrter Strasse 66, 10557 Berlin
 - 4 DZ a 149,- €
 - 2 EZ a 119,- €
@@ -34,19 +32,19 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 ## ALTERNATIVE: Do 13.07. - Fr 14.07. -> Hamburg - Berlin
 - ca. 325km auf 2 Etappen
 - Übernachtung bei Wittenberge/Havelberg \
-<a href="https://www.booking.com/Share-5FuSgF" target="_blank" rel="noopener noreferrer">z.B.: Wellnesshotel Legde</a>
+[z.B.: Wellnesshotel Legde](https://www.booking.com/Share-5FuSgF)
 
 ### Stecke
-> <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
+> :warning: **ToDo** :bangbang:
 
 &uarr; [zurück zur Übersicht](#top)
 
 # Sa 15.07. - Berlin - Dresden
 
 ## Strecke
-> <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
+> :warning: **ToDo** :bangbang: 
 
-## <a href="https://www.dresdenzentrumhotel.com/" target="_blank" rel="noopener noreferrer">Dresden Zentrum Hotel</a>
+## [Dresden Zentrum Hotel](https://www.dresdenzentrumhotel.com/)
 - Prager Str. 13, 01069 Dresden  
 - 5 DZ a 115,- €  
 - 2 EZ a 105,- €
@@ -56,9 +54,9 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 # So 16.07. - Dresden - Prag
 
 ## Strecke
-> <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
+> :warning: **ToDo** :bangbang: 
 
-## <a href="https://www.booking.com/Share-sI5aLU" target="_blank" rel="noopener noreferrer">Hotel Beranek</a>
+## [Hotel Beranek](https://www.booking.com/Share-sI5aLU)
 - Bělehradská 110, 120 00 Praha 2-Vinohrady, Tschechien
 - 5 DZ a 86,- €
 - 2 EZ a 68,- €
