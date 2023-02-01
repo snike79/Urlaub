@@ -19,6 +19,10 @@
 
 # Fr 14.07. - Hinfahrt (Zug)
 
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+
 ## IC 2075
 Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - Gabi & Olaf
