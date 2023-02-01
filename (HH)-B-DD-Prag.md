@@ -1,55 +1,84 @@
-# (Hamburg) - Berlin - Dresden - Prag
+(Hamburg) - Berlin - Dresden - Prag
+===================================
+- [(Hamburg) - Berlin - Dresden - Prag](#hamburg---berlin---dresden---prag)
+- [Fr 14.07. - Hinfahrt (Zug)](#fr-1407---hinfahrt-zug)
+  - [IC 2075](#ic-2075)
+  - [Unterkunft](#unterkunft)
+  - [ALTERNATIVE: Hamburg - Berlin (optinal)](#alternative-hamburg---berlin-optinal)
+    - [Stecke](#stecke)
+- [Sa 15.07. - Berlin - Dresden](#sa-1507---berlin---dresden)
+  - [Strecke](#strecke)
+  - [Unterkunft](#unterkunft-1)
+- [So 16.07. - Dresden - Prag](#so-1607---dresden---prag)
+  - [Strecke](#strecke-1)
+  - [Unterkunft](#unterkunft-2)
+- [Mo 17.07. - Rückfahrt (Zug)](#mo-1707---rückfahrt-zug)
+  - [EC 174](#ec-174)
+  - [EC 172](#ec-172)
 
-## Hinfahrt (Zug) - Fr 14.07.
+# Fr 14.07. - Hinfahrt (Zug)
 
-### IC 2075
-Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h \
+## IC 2075
+Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - Gabi & Olaf
 - MichiS (Backup)
 
-### Unterkunft
-Hotel Rossi\
+## Unterkunft
+Hotel Rossi
 - Lehrter Strasse 66, 10557 Berlin
-
 - https://www.booking.com/Share-MTXxVyT
-
 - 4 DZ a 149,- €
 - 2 EZ a 119,- €
 
-### ALTERNATIVE: Hamburg - Berlin (optinal)
-Do 13.07. - Fr 14.07.\
+## ALTERNATIVE: Hamburg - Berlin (optinal)
+Do 13.07. - Fr 14.07.
 - ca. 325km auf 2 Etappen
+- Übernachtung bei Wittenberge/Havelberg \
+https://www.booking.com/Share-5FuSgF (Beispiel)
 
-- Übernachtung bei Wittenberge/Havelberg\
-https://www.booking.com/Share-5FuSgF
+### Stecke
+    :warning: ToDo :bangbang:
 
-## Berlin - Dresden - Sa 15.07.
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
-### Unterkunft
-Dresden Zentrum Hotel\
+# Sa 15.07. - Berlin - Dresden
+
+## Strecke
+    :warning: ToDo :bangbang:
+
+## Unterkunft
+Dresden Zentrum Hotel
 - Prager Str. 13, 01069 Dresden  
-
 - https://www.dresdenzentrumhotel.com/
-
 - 5 DZ a 115,- €  
 - 2 EZ a 105,- €
 
-## Dresden - Prag - So 16.07.
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
-### Unterkunft
-Hotel Beranek\
+# So 16.07. - Dresden - Prag
+
+## Strecke
+    :warning: ToDo :bangbang:
+
+## Unterkunft
+Hotel Beranek
 - Bělehradská 110, 120 00 Praha 2-Vinohrady, Tschechien
-
 - https://www.booking.com/Share-sI5aLU
-
 - 5 DZ a 86,- €
 - 2 EZ a 68,- €
 
-## Rückfahrt (Zug) - Mo 17.07.
+# Mo 17.07. - Rückfahrt (Zug)
 
-### EC 174 
+## EC 174 
 Prag (10:25) - Hamburg Hbf (17:11)
-
 - Uwe
 - VayMichi
 - BusseOlaf & Gabi
@@ -58,9 +87,14 @@ Prag (10:25) - Hamburg Hbf (17:11)
 - SchnickeMichi
 - Hergen
 
-### EC 172
+## EC 172
 Prag (14:25) - Hamburg Hbf (21:17)
-
 - StöckerOlaf?
 - Regen(sburg)Thom?
 - eventuell Elli
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
