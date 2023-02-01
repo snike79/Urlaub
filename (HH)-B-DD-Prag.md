@@ -3,46 +3,46 @@
 ## Hinfahrt (Zug) - Fr 14.07.
 
 ### IC 2075
-Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
-Gabi & Olaf
-MichiS als Backup
+- Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
+- Gabi & Olaf
+- MichiS als Backup
 
 ### Unterkunft
-Hotel Rossi
+Hotel Rossi\
 Lehrter Strasse 66, 10557 Berlin
 
 https://www.booking.com/Share-MTXxVyT
 
-4DZ a 149,- €
+4DZ a 149,- €\
 2EZ a 119,- €
 
 ### ALTERNATIVE: Hamburg - Berlin (optinal)
-Do 13.07. - Fr 14.07.
-ca. 325km
+Do 13.07. - Fr 14.07.\
+ca. 325km auf 2 Etappen
 
-Übernachtung bei Wittenberge/Havelberg
+Übernachtung bei Wittenberge/Havelberg\
 https://www.booking.com/Share-5FuSgF
 
 ## Berlin - Dresden - Sa 15.07.
 
 ### Unterkunft
-Dresden Zentrum Hotel
-Prager Str. 13, 01069 Dresden
+Dresden Zentrum Hotel\
+Prager Str. 13, 01069 Dresden  
 
 https://www.dresdenzentrumhotel.com/
 
-5DZ a 115,- €
+5DZ a 115,- €\  
 2EZ a 105,- €
 
 ## Dresden - Prag - So 16.07.
 
 ### Unterkunft
-Hotel Beranek
+Hotel Beranek\
 Bělehradská 110, 120 00 Praha 2-Vinohrady, Tschechien
 
 https://www.booking.com/Share-sI5aLU
 
-DZ a 86,- €
+DZ a 86,- €\
 EZ a 68,- €
 
 ## Rückfahrt (Zug) - Mo 17.07.
