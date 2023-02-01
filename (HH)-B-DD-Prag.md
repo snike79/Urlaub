@@ -19,7 +19,7 @@
 
 # Fr 14.07. - Hinfahrt (Zug)
 
-<a href="(https://www.booking.com/Share-MTXxVyT)" onclick="return ! window.open(this.href);">Open in a new window</a>
+<a href="https://www.booking.com/Share-MTXxVyT" onclick="return ! window.open(this.href);">Open in a new window</a>
 
 ## IC 2075
 Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
