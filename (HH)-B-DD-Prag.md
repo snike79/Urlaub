@@ -25,9 +25,8 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - MichiS (Backup)
 
 ## Unterkunft
-Hotel Rossi
+[Hotel Rossi](https://www.booking.com/Share-MTXxVyT){:target="_blank"}
 - Lehrter Strasse 66, 10557 Berlin
-- https://www.booking.com/Share-MTXxVyT
 - 4 DZ a 149,- €
 - 2 EZ a 119,- €
 
@@ -35,7 +34,7 @@ Hotel Rossi
 Do 13.07. - Fr 14.07.
 - ca. 325km auf 2 Etappen
 - Übernachtung bei Wittenberge/Havelberg \
-https://www.booking.com/Share-5FuSgF (Beispiel)
+https://www.booking.com/Share-5FuSgF{:target="_blank"} (Beispiel)
 
 ### Stecke
 > :warning: ToDo :bangbang:
@@ -52,9 +51,8 @@ https://www.booking.com/Share-5FuSgF (Beispiel)
 > :warning: ToDo :bangbang:
 
 ## Unterkunft
-Dresden Zentrum Hotel
+[Dresden Zentrum Hotel](https://www.dresdenzentrumhotel.com/){:target="_blank"}
 - Prager Str. 13, 01069 Dresden  
-- https://www.dresdenzentrumhotel.com/
 - 5 DZ a 115,- €  
 - 2 EZ a 105,- €
 
@@ -70,9 +68,8 @@ Dresden Zentrum Hotel
 > :warning: ToDo :bangbang:
 
 ## Unterkunft
-Hotel Beranek
+[Hotel Beranek](https://www.booking.com/Share-sI5aLU){:target="_blank"}
 - Bělehradská 110, 120 00 Praha 2-Vinohrady, Tschechien
-- https://www.booking.com/Share-sI5aLU
 - 5 DZ a 86,- €
 - 2 EZ a 68,- €
 
