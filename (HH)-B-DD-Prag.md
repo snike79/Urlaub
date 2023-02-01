@@ -19,9 +19,7 @@
 
 # Fr 14.07. - Hinfahrt (Zug)
 
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
+<a href="(https://www.booking.com/Share-MTXxVyT)" onclick="return ! window.open(this.href);">Open in a new window</a>
 
 ## IC 2075
 Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
@@ -41,11 +39,7 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 ### Stecke
 > <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
+&uarr; [zurück zur Übersicht](#top)
 
 # Sa 15.07. - Berlin - Dresden
 
@@ -57,11 +51,7 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - 5 DZ a 115,- €  
 - 2 EZ a 105,- €
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
+&uarr; [zurück zur Übersicht](#top)
 
 # So 16.07. - Dresden - Prag
 
@@ -91,8 +81,4 @@ Prag (14:25) - Hamburg Hbf (21:17)
 - Regen(sburg)Thom?
 - eventuell Elli
 
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
+&uarr; [zurück zur Übersicht](#top)
