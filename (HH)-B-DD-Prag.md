@@ -5,7 +5,7 @@
 - [Fr 14.07. - Hinfahrt (Zug)](#fr-1407---hinfahrt-zug)
   - [IC 2075](#ic-2075)
   - [Hotel Rossi](#hotel-rossi)
-  - [ALTERNATIVE: Hamburg - Berlin (optinal)](#alternative-hamburg---berlin-optinal)
+  - [ALTERNATIVE: Do 13.07. - Fr 14.07. -\> Hamburg - Berlin](#alternative-do-1307---fr-1407---hamburg---berlin)
     - [Stecke](#stecke)
 - [Sa 15.07. - Berlin - Dresden](#sa-1507---berlin---dresden)
   - [Strecke](#strecke)
@@ -24,16 +24,15 @@ Hamburg Hbf (ab 17:51) - Berlin Hbf (19:55) - 2:04h
 - Gabi & Olaf
 - MichiS (Backup)
 
-## <a href="https://www.booking.com/Share-MTXxVyT" target="_blank">Hotel Rossi</a>
+## <a href="https://www.booking.com/Share-MTXxVyT" target="_blank" rel="noopener noreferrer">Hotel Rossi</a>
 - Lehrter Strasse 66, 10557 Berlin
 - 4 DZ a 149,- €
 - 2 EZ a 119,- €
 
-## ALTERNATIVE: Hamburg - Berlin (optinal)
-Do 13.07. - Fr 14.07.
+## ALTERNATIVE: Do 13.07. - Fr 14.07. -> Hamburg - Berlin
 - ca. 325km auf 2 Etappen
 - Übernachtung bei Wittenberge/Havelberg \
-<a href="https://www.booking.com/Share-5FuSgF" target="_blank">z.B.: Wellnesshotel Legde</a>
+<a href="https://www.booking.com/Share-5FuSgF" target="_blank" rel="noopener noreferrer">z.B.: Wellnesshotel Legde</a>
 
 ### Stecke
 > <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
@@ -49,7 +48,7 @@ Do 13.07. - Fr 14.07.
 ## Strecke
 > <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
 
-## <a href="https://www.dresdenzentrumhotel.com/" target="_blank">Dresden Zentrum Hotel</a>
+## <a href="https://www.dresdenzentrumhotel.com/" target="_blank" rel="noopener noreferrer">Dresden Zentrum Hotel</a>
 - Prager Str. 13, 01069 Dresden  
 - 5 DZ a 115,- €  
 - 2 EZ a 105,- €
@@ -65,7 +64,7 @@ Do 13.07. - Fr 14.07.
 ## Strecke
 > <span style="background-color:gray"> :warning: **ToDo** :bangbang: </span>
 
-## <a href="https://www.booking.com/Share-sI5aLU" target="_blank">Hotel Beranek</a>
+## <a href="https://www.booking.com/Share-sI5aLU" target="_blank" rel="noopener noreferrer">Hotel Beranek</a>
 - Bělehradská 110, 120 00 Praha 2-Vinohrady, Tschechien
 - 5 DZ a 86,- €
 - 2 EZ a 68,- €
